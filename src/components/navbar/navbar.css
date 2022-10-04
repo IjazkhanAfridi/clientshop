@@ -1,0 +1,26 @@
+.c-white{
+    color: white !important;
+}
+
+.bg-input{
+background-color: #0F243D !important;
+}
+.c-input{
+    color: #0F243D !important;
+}
+.searchinput{
+    border: none !important;
+    box-shadow: none !important;
+    
+}
+
+.btn-color{
+    background-color: #528EC1 !important;
+}
+
+.seachicon{
+    width: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 5px;
+}

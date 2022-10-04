@@ -1,0 +1,12 @@
+
+/* .card-lg {
+  @media(min-width: 992px) {
+    text-align: center;
+  }
+} */
+.card-lg{
+    width: 50%;
+@media screen((min-width: 992px)) {
+    width:24%;
+}
+}
